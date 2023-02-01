@@ -1,0 +1,1 @@
+{"uuid":"207e72dc-1107-4f2a-9668-e686e7781346","name":"UkrPostTest.setUp","children":["bdd1419e-71f7-497f-adfc-b1cdda337e85"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1674070244858,"stop":1674070245222}],"afters":[],"start":1674070244858,"stop":1674070245222}
